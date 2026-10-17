@@ -1,2 +1,1 @@
-# lulla-releases
-Lulla by Ahzy Capital: Android downloads
+# Lulla by Ahzy Capital: Android downloads
